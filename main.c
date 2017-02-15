@@ -18,6 +18,7 @@
  * 
  */
 int main(int argc, char** argv) {
+    printf("Hola mundo");
 
     return (EXIT_SUCCESS);
 }
