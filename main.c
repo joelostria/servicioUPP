@@ -19,6 +19,8 @@
  */
 int main(int argc, char** argv) {
     printf("Hola mundo");
+    for(int i=0;i<10;i++)
+        printf("Primera version del proyecto");
 
     return (EXIT_SUCCESS);
 }
